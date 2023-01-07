@@ -1,0 +1,7 @@
+para el sensor se ejecuta
+#python3 sensor2.py
+
+para el servidor de streaming
+#python3 streamingvid.py
+
+importante: no son soportados por python 2, es necesario usar python 3
